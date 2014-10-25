@@ -1,0 +1,8 @@
+# List your site's available languages and corresponding homepage URLs.
+langs:
+  en: /en
+  kr: /kr
+
+# Which language is the default?
+# Homing Pigeon uses this if the user's preferred language is unavailable.
+lang_default: en
