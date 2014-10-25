@@ -26,7 +26,7 @@ lang_default: en
 # Usage
 Place `{{ homing_pigeon }}` in the template that redirects to language specific homepages.
 
-## `root.html`
+## `templates/landing-redirect.html`
 ```
 {{ homing_pigeon }}
 ```
